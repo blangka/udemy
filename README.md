@@ -13,4 +13,8 @@ $ python3 main.py
 - 파이참에서 디버깅하는 방법 
     - BreakPoint 설정한다.
     - Run -> Debug 'main.py' 를 실행한다.
-    ![스크린샷 2022-09-06 오후 4 54 59](https://user-images.githubusercontent.com/98309975/188579447-efad0cb0-681e-4b91-8884-8b43db068f7d.png)
+    - ![스크린샷 2022-09-06 오후 4 54 59](https://user-images.githubusercontent.com/98309975/188579447-efad0cb0-681e-4b91-8884-8b43db068f7d.png)
+
+
+## 파이참 몇몇 단축키
+- cmd + / : 전체 주석 처리
