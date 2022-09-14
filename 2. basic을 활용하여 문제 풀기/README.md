@@ -5,3 +5,4 @@
     - [행맨 게임 규칙](https://namu.wiki/w/%ED%96%89%EB%A7%A8)
     - [다이어 그램 만들기](https://app.diagrams.net/)  
     - [아스키코드 아트](https://ascii.co.uk/art)
+3. [blackjack 게임](https://replit.com/@appbrewery/blackjack-start)
