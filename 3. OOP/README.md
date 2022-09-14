@@ -41,3 +41,9 @@
          4. check transaction successful
          5. make coffee
       4. 프로젝트 목적 : 코인을 넣고 커피가 정상적으로 만들어지는지 확인하는 프로그램을 만들어 보자.
+   2. [quiz game](https://replit.com/@appbrewery/quiz-game-final?embed=1&output=1#main.py) 객체 지향으로 패키지 나눠서 해보는 실습
+      1. __init__.py 파일을 만들어서 패키지로 만들어 준다.
+      2. __init__() 함수를 활용한다.
+      3. PascalCase  camelCase snake_case
+      4. 단순히 쿼즈를 내고 답변으로 true혹은 false 를 해준다.
+      5. [open trivia data base](https://opentdb.com/) 무료로 사용 가능. 질문을 API를 만들수 있다.
