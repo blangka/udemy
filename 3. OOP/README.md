@@ -31,3 +31,13 @@
       3. tool에서 추가 하는 것이 가능하다.
     ![스크린샷 2022-09-14 오전 9 39 12](https://user-images.githubusercontent.com/98309975/190033600-dfe96328-d45c-4d2c-8348-20a9ffb350b6.png)
 3. OOP를 활용하여 문제 풀기
+   1. coffe 머신 만들기 [DOC](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
+      1. [sample code](https://replit.com/@appbrewery/oop-coffee-machine-start)
+      2. main 파일만 손대서 완성 하세요.
+      3. 요청 사항
+         1. print report
+         2. check resources sufficient
+         3. process coins
+         4. check transaction successful
+         5. make coffee
+      4. 프로젝트 목적 : 코인을 넣고 커피가 정상적으로 만들어지는지 확인하는 프로그램을 만들어 보자.
