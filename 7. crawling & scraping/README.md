@@ -2,7 +2,7 @@
 
 > 참고 서적 
 > > [데이터 분석을 위한 파이썬 철저 입문](http://www.yes24.com/Product/Goods/63033697?pid=123487&cosemkid=go15336993929626063&gclid=Cj0KCQjw94WZBhDtARIsAKxWG-9KSfjcBT8ijnLmfTq1qq_rQc9sUzAEeBHtCWGT__Rammrni8JaddUaAu8oEALw_wcB)  
-> > 유데미 강의 25강
+> > 유데미 강의 45강
 
 ## 개요
 책과 파이썬의 강의를 참고해여 크롤링과 스크래핑을 구현  
@@ -13,3 +13,7 @@
 
 ## 2. scraping
 웹 스크래핑이란 웹 크롤러가 수집한 정보를 가공하여 원하는 데이터를 추출하는 작업을 의미합니다. 웹 크롤러가 수집한 정보를 웹 스크래퍼(Scraper)가 가공하여 원하는 데이터를 추출합니다.
+
+- udemy 참고사항
+    - .com 뒤에 robots.txt 를 붙이면 어떤 것을 허용하는지 알수 있다. ex) https://www.google.com/robots.txt
+    - [live](https://news.ycombinator.com/) 를 활용하여 scraping 예제
