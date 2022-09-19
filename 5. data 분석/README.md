@@ -16,3 +16,8 @@ NumPy는 Numerical Python의 약자로 수치해석용 파이썬 라이브러리
 파이썬에서 데이터 분석과 처리를 쉽게 할 수 있게 도와주는 것이 바로 pandas 라이브러리 입니다.  
 pandas는 numpy를 기반으로 만들어 졌지만 더 복잡한 데이터 분석에 특화 되어 있습니다.  
 홈페이지 : https://pandas.pydata.org/
+
+## 3. matplotlib
+matplotlib는 파이썬에서 데이터를 차트나 플롯으로 그려주는 라이브러리 입니다.
+matlab의 시각화 기능을 모델링해서 만들었습니다.
+홈페이지 : https://matplotlib.org/
