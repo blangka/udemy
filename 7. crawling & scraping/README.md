@@ -17,3 +17,4 @@
 - udemy 참고사항
     - .com 뒤에 robots.txt 를 붙이면 어떤 것을 허용하는지 알수 있다. ex) https://www.google.com/robots.txt
     - [live](https://news.ycombinator.com/) 를 활용하여 scraping 예제
+    - [100grateMoves](https://www.empireonline.com/movies/features/best-movies-2/) 를 활용하여 scraping 예제

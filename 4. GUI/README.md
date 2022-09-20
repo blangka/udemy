@@ -6,3 +6,6 @@
 2. Turtle RaceGame
    1. 시작 코드는 turtle-crossing-start.zip 입니다.
    2. 최종 코드는 Solution+-+turtle-crossing-final.zip 입니다.
+3. Tkinter 로 GUI 만들기
+   1. [doc](https://docs.python.org/3/library/tkinter.html#the-packer)
+   2. **args 와 **kwargs (https://legitcode267.tistory.com/13)
