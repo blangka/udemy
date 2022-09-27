@@ -18,3 +18,11 @@ https://www.pythonanywhere.com/ 에서 무료로 사용할 수 있다.
     1. recent Files 를 통해 파일 추가하기를 한다.
     2. console 에서 python3 maun.py 를 실행한다.
     3. 반복작업을 위해 task 에 들어가서 python3 maun.py 를 실행한다.
+
+## 3. SMS 전송
+https://www.twilio.com/ 에서 무료로 사용할 수 있다.  
+    1. account 생성
+    2. phone number 생성
+    3. python3 sms.py 를 실행한다.
+    4. https://www.daleseo.com/python-os-environ/ 에서 환경변수를 설정한다. 환경 변수로 twillo의 키를 저장해서 사용한다.
+         export TWILIO_ACCOUNT_SID=ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 이런 방식으로 설정해주고 시작해야 됀다.
